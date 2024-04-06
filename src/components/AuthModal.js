@@ -1,6 +1,9 @@
-import { useState } from "react";
+// AuthModal.js
 
-const AuthModal = ({ setShowModal,  isSignUp }) => {
+import React, { useState } from "react";
+import { useSubmitTransaction } from "../hooks/submit";
+
+const AuthModal = ({ setShowModal, isSignUp }) => {
   const [email, setEmail] = useState(null);
   const [password, setPassword] = useState(null);
   const [confirmPassword, setConfirmPassword] = useState(null);
@@ -11,19 +14,40 @@ const AuthModal = ({ setShowModal,  isSignUp }) => {
   const handleClick = () => {
     setShowModal(false);
   };
-
+  const { submitTransaction} = useSubmitTransaction();
   const handleSubmit = async (e) => {
     e.preventDefault();
+    // ... existing validation logic ...
     try {
       if (isSignUp && password !== confirmPassword) {
         setError("Passwords need to match!");
+        return;
       }
       console.log("make a post request to our database");
     } catch (error) {
       console.log(error);
     }
-  };
+  
 
+    const transactionData = {
+      // Example assuming you're registering a new user's email as a transaction
+
+    operation: "registerUser",
+    data: {
+      userEmail: email,
+    },
+  // Any other blockchain-specific fields required for the transaction
+};
+
+    
+    try {
+        await submitTransaction(transactionData);
+      console.log("Transaction submitted");
+    } catch (error) {
+      console.error("Failed to submit transaction", error);
+    }
+
+  };
   return (
     <div className="auth-modal">
       <div className="close-icon" onClick={handleClick}>
