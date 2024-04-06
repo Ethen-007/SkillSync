@@ -1,0 +1,12 @@
+[package]
+name = "user_registration"
+version = "0.0.1"
+authors = ["hello@example.com"]
+license = "MIT"
+
+[dependencies]
+AptosFramework = { git= "https://github.com/aptos-labs/aptos-core.git",rev="testnet",subdir="aptos-move/framework/aptos-framework" }
+#AptosTokenObjects= { git= "https://github.com/aptos-labs/aptos-core.git",rev="testnet",subdir="aptos-move/framework/aptos-token-objects" }
+
+[addresses]
+UserRegistration = "0x863b5635c27f3f85624225ee39fd13e85db0ca73644a19c8689ced1c229ae1d6"
