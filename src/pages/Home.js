@@ -4,14 +4,13 @@ import { useState } from "react";
 
 const Home = () => {
   const [showModal, setShowModal] = useState(false);
-  const [isSignUp,setIsSignUp] = useState(true)
+  const [isSignUp, setIsSignUp] = useState(true);
 
   const authToken = false;
-
   const handleClick = () => {
     console.log("clicked");
     setShowModal(true);
-    setIsSignUp(true)
+    setIsSignUp(true);
   };
   return (
     <div className="overlay">
@@ -27,7 +26,9 @@ const Home = () => {
           {authToken ? "Signout" : "Create Account"}
         </button>
 
-        {showModal && <AuthModal setShowModal={setShowModal}  isSignUp={isSignUp}/>}
+        {showModal && (
+          <AuthModal setShowModal={setShowModal} isSignUp={isSignUp} />
+        )}
       </div>
     </div>
   );
