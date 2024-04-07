@@ -1,4 +1,4 @@
-# Petra Wallet: Decentralized Application for Hackathon Partner Matching
+# SkillSync: Decentralized Application for Hackathon Partner Matching
 
 
 Welcome to SkillSync, a decentralized application (DApp) built on the Aptos blockchain using Move language along with Petra Wallet. Petra Wallet aims to connect individuals with verified skills to find suitable hackathon partners efficiently. With Petra Wallet, you can discover potential collaborators based on their verified skills, experience, and interests.
