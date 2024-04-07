@@ -10,7 +10,6 @@ const OnBoarding = () => {
     dob_year: "",
     show_gender: false,
     gender_identity: "man",
-    gender_interest: "woman",
     url: "",
     about: "",
     matches: [],
@@ -134,9 +133,10 @@ const OnBoarding = () => {
               required={true}
               placeholder="Python,HTML/CSS..."
               value={formData.skills}
-              onChange={handleChange}/>
+              onChange={handleChange}
+            />
 
-<label htmlFor="linkedIn">LinkedIn</label>
+            <label htmlFor="linkedIn">LinkedIn</label>
             <input
               id="linkedIn"
               type="url"
@@ -144,7 +144,8 @@ const OnBoarding = () => {
               required={true}
               placeholder="https://www.linkedin.com/"
               value={formData.linkedIn}
-              onChange={handleChange}/>
+              onChange={handleChange}
+            />
 
             <label htmlFor="url">Github</label>
             <input
@@ -156,7 +157,7 @@ const OnBoarding = () => {
               onChange={handleChange}
             />
 
-<label htmlFor="location">Location</label>
+            <label htmlFor="location">Location</label>
             <input
               id="location"
               type="text"
