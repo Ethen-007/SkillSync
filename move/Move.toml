@@ -9,4 +9,4 @@ AptosFramework = { git= "https://github.com/aptos-labs/aptos-core.git",rev="test
 #AptosTokenObjects= { git= "https://github.com/aptos-labs/aptos-core.git",rev="testnet",subdir="aptos-move/framework/aptos-token-objects" }
 
 [addresses]
-UserRegistration = "0x863b5635c27f3f85624225ee39fd13e85db0ca73644a19c8689ced1c229ae1d6"
+UserRegistration = "0xe06548d040ff74161951de0c8a1ff2c30f4a93ae758a1757a8797dcdc5a8c45d"

@@ -1,4 +1,4 @@
-address 0x863b5635c27f3f85624225ee39fd13e85db0ca73644a19c8689ced1c229ae1d6 {
+address UserRegistration {
 module UserRegistration {
     use std::signer;
 
