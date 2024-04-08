@@ -1,15 +1,15 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import HTMLImage from "../images/html.png"; // Import images for each skill
+import HTMLImage from "../images/html.png";
 import CSSImage from "../images/css.png";
 import JavaScriptImage from "../images/javascript.jpg";
 import ReactImage from "../images/react.jpg";
 import NodeJSImage from "../images/nodejs.png";
 import PythonImage from "../images/python.png";
-// Import CSS file for styling
+
 
 const SkillDisplay = () => {
-  // Define the skills array with names and image URLs
+
   const skills = [
     { name: "html", image: HTMLImage },
     { name: "css", image: CSSImage },
@@ -19,7 +19,6 @@ const SkillDisplay = () => {
     { name: "python", image: PythonImage },
   ];
 
-  // Ensure we have at most 6 skills to display
   const displaySkills = skills.slice(0, 6);
 
   return (
