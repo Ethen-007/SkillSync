@@ -22,7 +22,7 @@ const Dashboard = () => {
         skills: ["CSS", "HTML"],
         imageUrl: "https://i.imgur.com/OckVkRo.jpeg",
       },
-      // Add more people as needed
+
     ]);
   }, []);
 
