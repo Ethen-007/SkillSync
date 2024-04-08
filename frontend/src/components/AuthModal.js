@@ -17,7 +17,7 @@ const AuthModal = ({ setShowModal, isSignUp }) => {
   const { submitTransaction} = useSubmitTransaction();
   const handleSubmit = async (e) => {
     e.preventDefault();
-    // ... existing validation logic ...
+
     try {
       if (isSignUp && password !== confirmPassword) {
         setError("Passwords need to match!");
@@ -30,13 +30,13 @@ const AuthModal = ({ setShowModal, isSignUp }) => {
   
 
     const transactionData = {
-      // Example assuming you're registering a new user's email as a transaction
+
 
     operation: "registerUser",
     data: {
       userEmail: email,
     },
-  // Any other blockchain-specific fields required for the transaction
+
 };
 
     
