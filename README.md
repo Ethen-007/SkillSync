@@ -2,9 +2,13 @@
 
 ![My Image](https://drive.google.com/uc?id=1kW5I_yo1TOFeWJ8Gau0O07cPFE4TN48J)
 
+Welcome to Skill Sync, a decentralized application (DApp) built on the Aptos blockchain using Move language and Petra Wallet. Petra Wallet aims to connect individuals with verified skills to find suitable hackathon partners efficiently. With Petra Wallet, you can discover potential collaborators based on their verified skills, experience, and interests.
+
 [Demo Video](https://youtu.be/JMTFcnusVhY?si=zjnuDpsoChfRGuGd)
 
-Welcome to Skill Sync, a decentralized application (DApp) built on the Aptos blockchain using Move language and Petra Wallet. Petra Wallet aims to connect individuals with verified skills to find suitable hackathon partners efficiently. With Petra Wallet, you can discover potential collaborators based on their verified skills, experience, and interests.
+[Figma Design](https://www.figma.com/file/zRRZ4ojILiOtGl1bvIq8VX/Untitled?type=design&node-id=0-1&mode=design&t=5tD6lLkE5rxzpwAM-0)
+
+[Flow Diagram](https://drive.google.com/file/d/1ez7PkN2pQ_qearSsbYqbjgKDTH10AjQU/view?usp=sharing)
 
 ## Introduction
 
@@ -13,6 +17,10 @@ This README provides an overview of the features, usage instructions, and contac
 ## Features
 
 - **Decentralized Identity Verification**: Users can verify their skills and experiences through the blockchain, ensuring transparency and authenticity.
+
+- **Skill Search**: You can search for Teammates based on their verified skills.
+
+- **Wallet Connect**: All the Users can connect to Skill Sync using Petra Wallet and any transactions are signed through it.
   
 - **Skill Matching Algorithm**: Petra Wallet employs a sophisticated algorithm to match users with compatible partners for hackathons based on their verified skills and interests.
   
