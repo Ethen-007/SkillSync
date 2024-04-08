@@ -30,6 +30,6 @@ We're constantly striving to improve Skill Sync to provide the best possible exp
 
 ## Contact Us
 
-If you have any questions, concerns, or inquiries regarding Skill Sync, please contact us at [aaronthomas232200@gmail.com](mailto:aaronthomas232200@gmail.com.com) or connect with me at [LinkedIn](https://www.linkedin.com/in/aaron-thomas-blessen-390200214/) or at [X](https://twitter.com/aaron_blessen). We're here to assist you and ensure that your hackathon experience is smooth and enjoyable.
+If you have any questions, concerns, or inquiries regarding Skill Sync, please contact us at [aaronthomas232200@gmail.com](mailto:aaronthomas232200@gmail.com.com) or connect with me at [LinkedIn](https://www.linkedin.com/in/aaron-thomas-blessen-390200214/) or at [Twitter](https://twitter.com/aaron_blessen). We're here to assist you and ensure that your hackathon experience is smooth and enjoyable.
 
 Thank you for choosing Skill Sync. We hope you enjoy adding vibrant color to your images and videos!
