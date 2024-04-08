@@ -2,7 +2,7 @@
 import { AptosClient } from "aptos";
 // import { useWallet } from "@aptos-labs/wallet-adapter-react";
 
-const aptosClient = new AptosClient("https://fullnode.testnet.aptoslabs.com"); // Replace with your node URL
+const aptosClient = new AptosClient("https://fullnode.testnet.aptoslabs.com"); 
 
 export const signAndSubmit = async (transaction, signAndSubmitTransaction) => {
   try {
