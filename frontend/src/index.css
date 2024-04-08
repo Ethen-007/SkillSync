@@ -235,13 +235,13 @@ nav .logo-container .logo {
   margin-bottom: 10px;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  text-align: center; /* Center align the content */
+  text-align: center; 
 }
 
 .person-image {
-  width: 100px; /* Adjust based on your preference */
+  width: 100px; 
   height: 100px;
-  border-radius: 50%; /* Circular images */
+  border-radius: 50%; 
   object-fit: cover;
   margin-bottom: 10px;
 }
@@ -273,13 +273,13 @@ button:hover {
   margin-bottom: 10px;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  text-align: center; /* Center align the content */
+  text-align: center; 
 }
 
 .person-image {
-  width: 100px; /* Adjust based on your preference */
+  width: 100px; 
   height: 100px;
-  border-radius: 50%; /* Circular images */
+  border-radius: 50%; 
   object-fit: cover;
   margin-bottom: 10px;
 }
@@ -303,9 +303,9 @@ button:hover {
 }
 
 .skill {
-  width: 100px; /* Adjust as needed */
-  height: 100px; /* Adjust as needed */
-  margin: 10px; /* Adjust as needed */
+  width: 100px; 
+  height: 100px; 
+  margin: 10px; 
   display: flex;
   justify-content: center;
   align-items: center;
@@ -331,7 +331,7 @@ button:hover {
 
 .SkillVerification img {
   max-width: 100%;
-  max-height: 300px; /* Adjust height as needed */
+  max-height: 300px; 
   margin-bottom: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
