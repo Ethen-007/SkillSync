@@ -36,6 +36,6 @@ We're constantly striving to improve Skill Sync to provide the best possible exp
 
 ## Contact Us
 
-If you have any questions, concerns, or inquiries regarding Skill Sync, please contact us at <a href="ethenbiju@gmail.com" alt="my_email_id" target="_blank">ethenbiju@gmail.com</a> or connect with me at [LinkedIn](https://www.linkedin.com/in/ethenbiju/) or at [Twitter](https://twitter.com/@BijuEthen). We're here to assist you and ensure that your hackathon experience is smooth and enjoyable.
+If you have any questions, concerns, or inquiries regarding Skill Sync, please contact us at <a href="ethenbiju@gmail.com" alt="my_email_id" target="_blank">ethenbiju@gmail.com</a> or connect with me at <a href="https://www.linkedin.com/in/ethenbiju/" target="_blank" alt="linkedin profile">My LinkedIn Profile</a> or at <a href="https://twitter.com/@BijuEthen" target="_blank" alt="my twitter page>My X page</a>. We're here to assist you and ensure that your hackathon experience is smooth and enjoyable.
 
 Thank you for choosing Skill Sync. We hope you can find amazing teammates through Skill Sync!
