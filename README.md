@@ -12,7 +12,7 @@ Welcome to Skill Sync, a decentralized application (DApp) built on the Aptos blo
 
 ## Introduction
 
-This README provides an overview of the features, usage instructions, and contact information for our project. Read on to learn how you can easily find hackathon partners with Verified Skills with our intuitive platform..
+This README provides an overview of the features, usage instructions, and contact information for our project. Read on to learn how you can easily find hackathon partners with Verified Skills with our intuitive platform.
 
 ## Features
 
@@ -25,6 +25,13 @@ This README provides an overview of the features, usage instructions, and contac
 - **Secure Communication**: Built-in secure communication channels enable users to discuss project ideas and collaborations without compromising their privacy.
   
 - **Smart Contract Integration**: Utilizes smart contracts to facilitate secure transactions and agreements between collaborators.
+
+## Tech Stack
+- **Aptos Blockchain**: Secure, decentralized platform for data management.
+- **Move Language**: Smart contracts and logic execution.
+- **Petra Wallet**: Secure user authentication and interaction.
+- **Zero-Knowledge Protocols**: Skill verification without compromising privacy.
+- **Javascript**: Backend and frontend development.
 
 ## Contributing
 
