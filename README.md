@@ -14,6 +14,10 @@ Welcome to Skill Sync, a decentralized application (DApp) built on the Aptos blo
 
 This README provides an overview of the features, usage instructions, and contact information for our project. Read on to learn how you can easily find hackathon partners with Verified Skills with our intuitive platform.
 
+## Impact of the Solution
+
+Skill Sync revolutionizes tech collaboration by ensuring trust in the skills of potential partners. This leads to more effective and productive hackathon teams, eliminating the issue of skill misrepresentation. By fostering a community of authenticity and reliability, Skill Sync enhances collaboration, innovation, and success in tech projects.
+
 ## Features
 
 - **Decentralized Identity Verification**: Users can verify their skills and experiences through the blockchain, ensuring transparency and authenticity.
