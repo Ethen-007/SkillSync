@@ -12,7 +12,7 @@ Welcome to Skill Sync, a decentralized application (DApp) built on the Aptos blo
 
 ## Introduction
 
-This README provides an overview of the features, usage instructions, and contact information for our project. Read on to learn how you can easily find hackathon partners with Verified Skills with our intuitive platform.
+This README provides an overview of the features, usage instructions, and contact information for our project. Read on to learn how you can easily find hackathon partners with Verified Skills with our intuitive platform..
 
 ## Features
 
